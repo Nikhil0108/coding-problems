@@ -30,6 +30,7 @@ public:
             }
         }
 
+        
         // check columns
         for(int j=0;j<9;j++){
             unordered_set<char> st;

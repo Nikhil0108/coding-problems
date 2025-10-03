@@ -31,7 +31,6 @@ Rules:
 **Output:**
 true
 
-
 ---
 
 ## Approach
